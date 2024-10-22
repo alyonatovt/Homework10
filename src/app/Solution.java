@@ -12,6 +12,6 @@ public class Solution {
         System.out.println();
         person2.setProfession("Програміст");
         System.out.println("Оновлена інформація:");
-       person2.printInfo();
+        person2.printInfo();
     }
 }
